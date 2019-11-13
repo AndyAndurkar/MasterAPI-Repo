@@ -58,7 +58,6 @@ public class HelloService {
 		  
 		  //String response = "";
 		  
-		  // New Comment
 		  
 		  HelloResponseDTO response = null;
 		  
